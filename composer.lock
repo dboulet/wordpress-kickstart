@@ -1,0 +1,190 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file"
+    ],
+    "hash": "cb543af7a978fa95d7131009dc0cadc4",
+    "packages": [
+        {
+            "name": "composer/installers",
+            "version": "v1.0.13",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/composer/installers.git",
+                "reference": "26d37e307f9aa6e2e81806a6525666f8ab5ba0ff"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/composer/installers/zipball/26d37e307f9aa6e2e81806a6525666f8ab5ba0ff",
+                "reference": "26d37e307f9aa6e2e81806a6525666f8ab5ba0ff",
+                "shasum": ""
+            },
+            "replace": {
+                "shama/baton": "*"
+            },
+            "require-dev": {
+                "composer/composer": "1.0.*@dev",
+                "phpunit/phpunit": "3.7.*"
+            },
+            "type": "composer-installer",
+            "extra": {
+                "class": "Composer\\Installers\\Installer",
+                "branch-alias": {
+                    "dev-master": "1.0-dev"
+                }
+            },
+            "autoload": {
+                "psr-0": {
+                    "Composer\\Installers\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Kyle Robinson Young",
+                    "email": "kyle@dontkry.com",
+                    "homepage": "https://github.com/shama",
+                    "role": "Developer"
+                }
+            ],
+            "description": "A multi-framework Composer library installer",
+            "homepage": "http://composer.github.com/installers/",
+            "keywords": [
+                "Craft",
+                "Hurad",
+                "MODX Evo",
+                "OXID",
+                "WolfCMS",
+                "agl",
+                "annotatecms",
+                "cakephp",
+                "codeigniter",
+                "concrete5",
+                "croogo",
+                "drupal",
+                "elgg",
+                "fuelphp",
+                "installer",
+                "joomla",
+                "kohana",
+                "laravel",
+                "lithium",
+                "magento",
+                "mako",
+                "mediawiki",
+                "modulework",
+                "phpbb",
+                "piwik",
+                "ppi",
+                "shopware",
+                "silverstripe",
+                "symfony",
+                "typo3",
+                "wordpress",
+                "zend",
+                "zikula"
+            ],
+            "time": "2014-04-09 16:12:43"
+        },
+        {
+            "name": "fancyguy/webroot-installer",
+            "version": "1.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/fancyguy/webroot-installer.git",
+                "reference": "4888a3dad9ab3b3da505a149230be0ec2ab837f4"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/fancyguy/webroot-installer/zipball/4888a3dad9ab3b3da505a149230be0ec2ab837f4",
+                "reference": "4888a3dad9ab3b3da505a149230be0ec2ab837f4",
+                "shasum": ""
+            },
+            "require-dev": {
+                "composer/composer": "1.0.*@dev",
+                "phpunit/phpunit": "3.7.*"
+            },
+            "type": "composer-installer",
+            "extra": {
+                "class": "FancyGuy\\Composer\\WebrootInstaller"
+            },
+            "autoload": {
+                "psr-0": {
+                    "FancyGuy\\Composer\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "BSD-3-Clause"
+            ],
+            "authors": [
+                {
+                    "name": "Steve Buzonas",
+                    "email": "steve@fancyguy.com",
+                    "homepage": "http://www.stevebuzonas.com"
+                }
+            ],
+            "description": "A composer installer for libraries that live in an application webroot.",
+            "homepage": "http://fancyguy.github.com/webroot-installer/",
+            "time": "2013-01-29 22:51:45"
+        },
+        {
+            "name": "wordpress",
+            "version": "3.9",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/WordPress/WordPress",
+                "reference": "3.9"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "http://wordpress.org/wordpress-3.9.zip",
+                "reference": null,
+                "shasum": null
+            },
+            "require": {
+                "fancyguy/webroot-installer": "1.0.0"
+            },
+            "type": "webroot"
+        },
+        {
+            "name": "wpackagist/akismet",
+            "version": "2.6.0",
+            "source": {
+                "type": "svn",
+                "url": "http://plugins.svn.wordpress.org/akismet/",
+                "reference": "tags/2.6.0"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "http://downloads.wordpress.org/plugin/akismet.2.6.0.zip",
+                "reference": null,
+                "shasum": null
+            },
+            "require": {
+                "composer/installers": "~1.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "http://wordpress.org/plugins/akismet/"
+        }
+    ],
+    "packages-dev": [
+
+    ],
+    "aliases": [
+
+    ],
+    "minimum-stability": "stable",
+    "stability-flags": [
+
+    ],
+    "platform": [
+
+    ],
+    "platform-dev": [
+
+    ]
+}
