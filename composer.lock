@@ -3,7 +3,7 @@
         "This file locks the dependencies of your project to a known state",
         "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file"
     ],
-    "hash": "cb543af7a978fa95d7131009dc0cadc4",
+    "hash": "6a7c6c25df7b7e1a0384560968c84601",
     "packages": [
         {
             "name": "composer/installers",
@@ -152,15 +152,15 @@
         },
         {
             "name": "wpackagist/akismet",
-            "version": "2.6.0",
+            "version": "3.0.0",
             "source": {
                 "type": "svn",
                 "url": "http://plugins.svn.wordpress.org/akismet/",
-                "reference": "tags/2.6.0"
+                "reference": "tags/3.0.0-RC1"
             },
             "dist": {
                 "type": "zip",
-                "url": "http://downloads.wordpress.org/plugin/akismet.2.6.0.zip",
+                "url": "http://downloads.wordpress.org/plugin/akismet.3.0.0.zip",
                 "reference": null,
                 "shasum": null
             },

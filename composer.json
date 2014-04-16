@@ -8,7 +8,7 @@
     }
   ],
   "require": {
-    "wpackagist/akismet": "2.6.*",
+    "wpackagist/akismet": "3.0.*",
     "wordpress": "3.9",
     "fancyguy/webroot-installer": "1.0.0"
   },
