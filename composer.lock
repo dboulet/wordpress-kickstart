@@ -3,7 +3,7 @@
         "This file locks the dependencies of your project to a known state",
         "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file"
     ],
-    "hash": "6a7c6c25df7b7e1a0384560968c84601",
+    "hash": "211c5d2b8c014e994722a60eded1f176",
     "packages": [
         {
             "name": "composer/installers",
@@ -149,6 +149,26 @@
                 "fancyguy/webroot-installer": "1.0.0"
             },
             "type": "webroot"
+        },
+        {
+            "name": "wpackagist-theme/twentyfourteen",
+            "version": "1.0",
+            "source": {
+                "type": "svn",
+                "url": "http://themes.svn.wordpress.org/twentyfourteen/",
+                "reference": "1.0"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "http://wordpress.org/themes/download/twentyfourteen.1.0.zip",
+                "reference": null,
+                "shasum": null
+            },
+            "require": {
+                "composer/installers": "~1.0"
+            },
+            "type": "wordpress-theme",
+            "homepage": "http://wordpress.org/themes/twentyfourteen/"
         },
         {
             "name": "wpackagist/akismet",
