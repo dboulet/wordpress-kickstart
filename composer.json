@@ -8,7 +8,7 @@
     }
   ],
   "require": {
-    "wpackagist/akismet": "3.0.*",
+    "wpackagist-plugin/akismet": "3.0.*",
     "wpackagist-theme/twentyfourteen": "*",
     "wordpress": "3.9",
     "fancyguy/webroot-installer": "1.0.0"
