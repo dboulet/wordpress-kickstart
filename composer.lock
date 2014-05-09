@@ -3,7 +3,7 @@
         "This file locks the dependencies of your project to a known state",
         "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file"
     ],
-    "hash": "e3644dd81014a3e18c5ad4e8df246db0",
+    "hash": "7dd2b9c0b5a0dd18e6e3395695522b6d",
     "packages": [
         {
             "name": "composer/installers",
@@ -175,15 +175,15 @@
         },
         {
             "name": "wpackagist-theme/twentyfourteen",
-            "version": "1.0",
+            "version": "1.1",
             "source": {
                 "type": "svn",
                 "url": "http://themes.svn.wordpress.org/twentyfourteen/",
-                "reference": "1.0"
+                "reference": "1.1"
             },
             "dist": {
                 "type": "zip",
-                "url": "http://wordpress.org/themes/download/twentyfourteen.1.0.zip",
+                "url": "http://wordpress.org/themes/download/twentyfourteen.1.1.zip",
                 "reference": null,
                 "shasum": null
             },
