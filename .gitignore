@@ -15,7 +15,6 @@ wp-content/upgrade/*
 wp-content/uploads/*
 wp-content/plugins/*
 !wp-content/plugins/index.php
-wp-content/mu-plugins/*
 wp-content/themes/*
 !wp-content/themes/index.php
 
