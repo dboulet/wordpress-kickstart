@@ -4,7 +4,7 @@
         "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "d292bb93c5ecceacc040a26589d6215d",
+    "hash": "34e212834785a0776577342b5904743c",
     "packages": [
         {
             "name": "composer/installers",
@@ -140,15 +140,15 @@
         },
         {
             "name": "wordpress",
-            "version": "4.0",
+            "version": "4.0.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/WordPress/WordPress",
-                "reference": "4.0"
+                "reference": "4.0.1"
             },
             "dist": {
                 "type": "zip",
-                "url": "http://wordpress.org/wordpress-4.0.zip",
+                "url": "http://wordpress.org/wordpress-4.0.1.zip",
                 "reference": null,
                 "shasum": null
             },
@@ -159,15 +159,15 @@
         },
         {
             "name": "wpackagist-plugin/akismet",
-            "version": "3.0.2",
+            "version": "3.0.3",
             "source": {
                 "type": "svn",
                 "url": "http://plugins.svn.wordpress.org/akismet/",
-                "reference": "tags/3.0.2"
+                "reference": "tags/3.0.3"
             },
             "dist": {
                 "type": "zip",
-                "url": "http://downloads.wordpress.org/plugin/akismet.3.0.2.zip",
+                "url": "http://downloads.wordpress.org/plugin/akismet.3.0.3.zip",
                 "reference": null,
                 "shasum": null
             },
@@ -201,21 +201,11 @@
             "homepage": "http://wordpress.org/themes/twentyfourteen/"
         }
     ],
-    "packages-dev": [
-
-    ],
-    "aliases": [
-
-    ],
+    "packages-dev": [],
+    "aliases": [],
     "minimum-stability": "stable",
-    "stability-flags": [
-
-    ],
+    "stability-flags": [],
     "prefer-stable": false,
-    "platform": [
-
-    ],
-    "platform-dev": [
-
-    ]
+    "platform": [],
+    "platform-dev": []
 }
