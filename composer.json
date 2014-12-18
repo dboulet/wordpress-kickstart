@@ -13,6 +13,17 @@
     "wordpress": "4.1",
     "fancyguy/webroot-installer": "1.0.0"
   },
+  "require-dev": {
+    "wpackagist-plugin/developer": "*",
+    "wpackagist-plugin/debug-bar": "*",
+    "wpackagist-plugin/debug-bar-console": "*",
+    "wpackagist-plugin/debug-bar-cron": "*",
+    "wpackagist-plugin/debug-bar-extender": "*",
+    "wpackagist-plugin/log-deprecated-notices": "*",
+    "wpackagist-plugin/regenerate-thumbnails": "*",
+    "wpackagist-plugin/rewrite-rules-inspector": "*",
+    "wpackagist-plugin/theme-check": "*"
+  },
   "repositories":[
     {
       "type":"composer",

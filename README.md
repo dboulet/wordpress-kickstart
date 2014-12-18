@@ -12,3 +12,7 @@ To install:
 * Run `composer install`.
 * Copy wp-config-sample.php to wp-config.php and enter in DB connection details.
 * Install WordPress.
+
+By default, this will also install some plugins that are useful during website development. To skip the installation of these plugins during install, use the `--no-dev` option:
+
+`composer install --no-dev`
