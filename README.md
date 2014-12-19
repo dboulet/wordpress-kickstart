@@ -10,7 +10,7 @@ A starting point for managing a WordPress installation using Composer and Git.
 To install:
 
 * Clone repo into your webroot.
-* Update required information in composer.json, including package name, description and authors.
+* Update required information in composer.json, including package name, description, authors and license.
 * Run `composer install`.
 * Copy wp-config-sample.php to wp-config.php and enter in DB connection details.
 * Install WordPress.
