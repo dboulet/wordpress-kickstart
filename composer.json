@@ -10,7 +10,7 @@
   "license": "proprietary",
   "require": {
     "wpackagist-plugin/akismet": "3.0.*",
-    "wpackagist-theme/twentyfourteen": "*",
+    "wpackagist-theme/twentyfifteen": "*",
     "wordpress": "4.1",
     "fancyguy/webroot-installer": "1.0.0"
   },

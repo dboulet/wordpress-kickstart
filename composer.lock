@@ -4,7 +4,7 @@
         "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "60393fc7cbcc679c79540c24b78e9837",
+    "hash": "9fe51e0467ff8433b2dd1739adba3545",
     "packages": [
         {
             "name": "composer/installers",
@@ -178,19 +178,19 @@
                 "composer/installers": "~1.0"
             },
             "type": "wordpress-plugin",
-            "homepage": "http://wordpress.org/plugins/akismet/"
+            "homepage": "https://wordpress.org/plugins/akismet/"
         },
         {
-            "name": "wpackagist-theme/twentyfourteen",
-            "version": "1.2",
+            "name": "wpackagist-theme/twentyfifteen",
+            "version": "1.0",
             "source": {
                 "type": "svn",
-                "url": "http://themes.svn.wordpress.org/twentyfourteen/",
-                "reference": "1.2"
+                "url": "http://themes.svn.wordpress.org/twentyfifteen/",
+                "reference": "1.0"
             },
             "dist": {
                 "type": "zip",
-                "url": "http://wordpress.org/themes/download/twentyfourteen.1.2.zip",
+                "url": "http://wordpress.org/themes/download/twentyfifteen.1.0.zip",
                 "reference": null,
                 "shasum": null
             },
@@ -198,7 +198,7 @@
                 "composer/installers": "~1.0"
             },
             "type": "wordpress-theme",
-            "homepage": "http://wordpress.org/themes/twentyfourteen/"
+            "homepage": "http://wordpress.org/themes/twentyfifteen/"
         }
     ],
     "packages-dev": [
@@ -220,7 +220,7 @@
                 "composer/installers": "~1.0"
             },
             "type": "wordpress-plugin",
-            "homepage": "http://wordpress.org/plugins/debug-bar/"
+            "homepage": "https://wordpress.org/plugins/debug-bar/"
         },
         {
             "name": "wpackagist-plugin/debug-bar-console",
@@ -240,7 +240,7 @@
                 "composer/installers": "~1.0"
             },
             "type": "wordpress-plugin",
-            "homepage": "http://wordpress.org/plugins/debug-bar-console/"
+            "homepage": "https://wordpress.org/plugins/debug-bar-console/"
         },
         {
             "name": "wpackagist-plugin/debug-bar-cron",
@@ -260,7 +260,7 @@
                 "composer/installers": "~1.0"
             },
             "type": "wordpress-plugin",
-            "homepage": "http://wordpress.org/plugins/debug-bar-cron/"
+            "homepage": "https://wordpress.org/plugins/debug-bar-cron/"
         },
         {
             "name": "wpackagist-plugin/debug-bar-extender",
@@ -280,7 +280,7 @@
                 "composer/installers": "~1.0"
             },
             "type": "wordpress-plugin",
-            "homepage": "http://wordpress.org/plugins/debug-bar-extender/"
+            "homepage": "https://wordpress.org/plugins/debug-bar-extender/"
         },
         {
             "name": "wpackagist-plugin/developer",
@@ -300,7 +300,7 @@
                 "composer/installers": "~1.0"
             },
             "type": "wordpress-plugin",
-            "homepage": "http://wordpress.org/plugins/developer/"
+            "homepage": "https://wordpress.org/plugins/developer/"
         },
         {
             "name": "wpackagist-plugin/log-deprecated-notices",
@@ -320,7 +320,7 @@
                 "composer/installers": "~1.0"
             },
             "type": "wordpress-plugin",
-            "homepage": "http://wordpress.org/plugins/log-deprecated-notices/"
+            "homepage": "https://wordpress.org/plugins/log-deprecated-notices/"
         },
         {
             "name": "wpackagist-plugin/regenerate-thumbnails",
@@ -340,7 +340,7 @@
                 "composer/installers": "~1.0"
             },
             "type": "wordpress-plugin",
-            "homepage": "http://wordpress.org/plugins/regenerate-thumbnails/"
+            "homepage": "https://wordpress.org/plugins/regenerate-thumbnails/"
         },
         {
             "name": "wpackagist-plugin/rewrite-rules-inspector",
@@ -360,7 +360,7 @@
                 "composer/installers": "~1.0"
             },
             "type": "wordpress-plugin",
-            "homepage": "http://wordpress.org/plugins/rewrite-rules-inspector/"
+            "homepage": "https://wordpress.org/plugins/rewrite-rules-inspector/"
         },
         {
             "name": "wpackagist-plugin/theme-check",
@@ -380,7 +380,7 @@
                 "composer/installers": "~1.0"
             },
             "type": "wordpress-plugin",
-            "homepage": "http://wordpress.org/plugins/theme-check/"
+            "homepage": "https://wordpress.org/plugins/theme-check/"
         }
     ],
     "aliases": [],
