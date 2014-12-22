@@ -17,12 +17,16 @@ To install:
 
 By default, this will also install some plugins that are useful during website development. To skip the installation of these plugins during install, use the `--no-dev` option:
 
-`composer install --no-dev`
+```sh
+$ composer install --no-dev
+```
 
 ## Adding and removing plugins and themes
 
 Simply make edits to the package list in `composer.json` and run the following command:
 
-`composer update`
+```sh
+$ composer update
+```
 
 See [WPackagist](http://wpackagist.org/) for more information.
