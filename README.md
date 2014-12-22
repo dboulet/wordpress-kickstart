@@ -11,7 +11,12 @@ To install:
 
 * Clone repo into your webroot.
 * Update required information in composer.json, including package name, description, authors and license.
-* Run `composer install`.
+* Run following command to install packages:
+
+    ```sh
+    $ composer install
+    ```
+
 * Copy `wp-config-sample.php` to `wp-config.php` and edit database connection details.
 * Install WordPress in your browser.
 
