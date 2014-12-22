@@ -23,6 +23,6 @@ wp-content/themes/*
 wp-config.php
 .htaccess
 
-# Ignore composer packages.
+# Ignore Composer packages.
 
 /vendor/
