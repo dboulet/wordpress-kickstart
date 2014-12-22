@@ -9,16 +9,11 @@ A starting point for managing a WordPress installation using [Composer](https://
 
 To install:
 
-* Clone repo into your webroot.
-* Update required information in composer.json, including package name, description, authors and license.
-* Run following command to install packages:
-
-    ```sh
-    $ composer install
-    ```
-
-* Copy `wp-config-sample.php` to `wp-config.php` and edit database connection details.
-* Install WordPress in your browser.
+1. Clone repo into your webroot.
+2. Update required information in `composer.json`, including package name, description, authors and license.
+3. Run following command to install packages: `composer install`
+4. Copy `wp-config-sample.php` to `wp-config.php` and edit database connection details.
+5. Install WordPress in your browser.
 
 By default, this will also install some plugins that are useful during website development. To skip the installation of these plugins during install, use the `--no-dev` option:
 
