@@ -364,15 +364,15 @@
         },
         {
             "name": "wpackagist-plugin/theme-check",
-            "version": "20140929.1",
+            "version": "20141222.1",
             "source": {
                 "type": "svn",
                 "url": "http://plugins.svn.wordpress.org/theme-check/",
-                "reference": "tags/20140929.1"
+                "reference": "tags/20141222.1"
             },
             "dist": {
                 "type": "zip",
-                "url": "http://downloads.wordpress.org/plugin/theme-check.20140929.1.zip",
+                "url": "http://downloads.wordpress.org/plugin/theme-check.20141222.1.zip",
                 "reference": null,
                 "shasum": null
             },
