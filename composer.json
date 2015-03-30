@@ -10,7 +10,7 @@
   "license": "proprietary",
   "require": {
     "wpackagist-plugin/limit-login-attempts": "1.*",
-    "wpackagist-plugin/akismet": "3.0.*",
+    "wpackagist-plugin/akismet": "3.*",
     "wpackagist-theme/twentyfifteen": "*",
     "wordpress": "4.1.1"
   },
