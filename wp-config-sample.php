@@ -89,7 +89,7 @@ define('WP_DEBUG', false);
 
 /** Custom Content Directory. */
 define( 'WP_CONTENT_DIR', dirname( __FILE__ ) . '/wp-content' );
-define( 'WP_CONTENT_URL', 'http://' . $_SERVER['HTTP_HOST'] . '/wp-content' );
+define( 'WP_CONTENT_URL', ( ( ! empty( $_SERVER['HTTPS'] ) && $_SERVER['HTTPS'] != 'off' ) ? 'https://' : 'http://' ) . $_SERVER['HTTP_HOST'] . '/wp-content' );
 
 /** Absolute path to the WordPress directory. */
 if ( !defined('ABSPATH') )
