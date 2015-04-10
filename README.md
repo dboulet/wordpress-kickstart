@@ -15,7 +15,7 @@ To install:
 4. Copy `wp-config-sample.php` to `wp-config.php` and edit database connection details.
 5. Install WordPress in your browser.
 
-By default, this will also install some plugins that are useful during website development. To skip the installation of these plugins during install, use the `--no-dev` option:
+By default, this will also install some plugins that are useful in website development. To skip the installation of these plugins, use the `--no-dev` option:
 
 ```sh
 $ composer install --no-dev
