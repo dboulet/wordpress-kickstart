@@ -204,15 +204,15 @@
         },
         {
             "name": "wpackagist-theme/twentyfifteen",
-            "version": "1.0",
+            "version": "1.1",
             "source": {
                 "type": "svn",
                 "url": "http://themes.svn.wordpress.org/twentyfifteen/",
-                "reference": "1.0"
+                "reference": "1.1"
             },
             "dist": {
                 "type": "zip",
-                "url": "http://wordpress.org/themes/download/twentyfifteen.1.0.zip",
+                "url": "https://downloads.wordpress.org/theme/twentyfifteen.1.1.zip",
                 "reference": null,
                 "shasum": null
             },
@@ -220,7 +220,7 @@
                 "composer/installers": "~1.0"
             },
             "type": "wordpress-theme",
-            "homepage": "http://wordpress.org/themes/twentyfifteen/"
+            "homepage": "https://wordpress.org/themes/twentyfifteen/"
         }
     ],
     "packages-dev": [
