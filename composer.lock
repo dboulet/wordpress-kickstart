@@ -204,15 +204,15 @@
         },
         {
             "name": "wpackagist-theme/twentyfifteen",
-            "version": "1.1",
+            "version": "1.2",
             "source": {
                 "type": "svn",
                 "url": "http://themes.svn.wordpress.org/twentyfifteen/",
-                "reference": "1.1"
+                "reference": "1.2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/theme/twentyfifteen.1.1.zip",
+                "url": "https://downloads.wordpress.org/theme/twentyfifteen.1.2.zip",
                 "reference": null,
                 "shasum": null
             },
