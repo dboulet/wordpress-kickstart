@@ -33,21 +33,21 @@
     {
       "type": "package",
       "package": {
-          "name": "wordpress",
-          "type": "webroot",
-          "version": "4.3.1",
-          "dist": {
-            "url": "http://wordpress.org/wordpress-4.3.1.zip",
-            "type": "zip"
-          },
-          "source": {
-            "url" : "https://github.com/WordPress/WordPress",
-            "type": "git",
-            "reference": "4.3.1"
-          },
-          "require": {
-            "fancyguy/webroot-installer": "1.0.0"
-          }
+        "name": "wordpress",
+        "type": "webroot",
+        "version": "4.3.1",
+        "dist": {
+          "url": "http://wordpress.org/wordpress-4.3.1.zip",
+          "type": "zip"
+        },
+        "source": {
+          "url" : "https://github.com/WordPress/WordPress",
+          "type": "git",
+          "reference": "4.3.1"
+        },
+        "require": {
+          "fancyguy/webroot-installer": "1.0.0"
+        }
       }
     }
   ],
