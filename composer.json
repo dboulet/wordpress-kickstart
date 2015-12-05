@@ -52,7 +52,11 @@
     }
   ],
   "extra": {
-    "webroot-dir": "wp",
+    "installer-paths": {
+      "public/wp-content/plugins/{$name}/": ["type:wordpress-plugin"],
+      "public/wp-content/themes/{$name}/": ["type:wordpress-theme"]
+    },
+    "webroot-dir": "public/wp",
     "webroot-package": "wordpress"
   }
 }

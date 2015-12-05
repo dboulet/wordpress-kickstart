@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "d476f34edb3f2cca98e8099710eae257",
-    "content-hash": "d9d83fdc0e90478da4e4da3e11ce0ae2",
+    "hash": "dfff5f78ba1122c1eb4664d20101ac92",
+    "content-hash": "41258723cbe5246fb89ef5b5dabed0ad",
     "packages": [
         {
             "name": "composer/installers",
@@ -238,7 +238,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "http://downloads.wordpress.org/plugin/debug-bar.0.8.2.zip",
+                "url": "https://downloads.wordpress.org/plugin/debug-bar.0.8.2.zip",
                 "reference": null,
                 "shasum": null
             },
@@ -258,7 +258,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "http://downloads.wordpress.org/plugin/debug-bar-console.0.3.zip",
+                "url": "https://downloads.wordpress.org/plugin/debug-bar-console.0.3.zip",
                 "reference": null,
                 "shasum": null
             },
@@ -278,7 +278,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "http://downloads.wordpress.org/plugin/debug-bar-cron.0.1.2.zip",
+                "url": "https://downloads.wordpress.org/plugin/debug-bar-cron.0.1.2.zip",
                 "reference": null,
                 "shasum": null
             },
@@ -298,7 +298,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "http://downloads.wordpress.org/plugin/debug-bar-extender.zip",
+                "url": "https://downloads.wordpress.org/plugin/debug-bar-extender.zip",
                 "reference": null,
                 "shasum": null
             },
@@ -338,7 +338,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "http://downloads.wordpress.org/plugin/log-deprecated-notices.0.3.zip",
+                "url": "https://downloads.wordpress.org/plugin/log-deprecated-notices.0.3.zip",
                 "reference": null,
                 "shasum": null
             },
@@ -378,7 +378,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "http://downloads.wordpress.org/plugin/rewrite-rules-inspector.1.2.1.zip",
+                "url": "https://downloads.wordpress.org/plugin/rewrite-rules-inspector.1.2.1.zip",
                 "reference": null,
                 "shasum": null
             },
