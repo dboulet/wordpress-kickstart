@@ -51,6 +51,13 @@
       }
     }
   ],
+  "autoload": {
+    "psr-4": { "WordPressKickstart\\": "" }
+  },
+  "scripts": {
+    "post-package-install" : "WordPressKickstart\\Installer::postPackageInstall",
+    "post-package-update" : "WordPressKickstart\\Installer::postPackageUpdate"
+  },
   "extra": {
     "webroot-dir": "wp",
     "webroot-package": "wordpress"
