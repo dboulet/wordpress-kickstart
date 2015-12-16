@@ -168,15 +168,15 @@
         },
         {
             "name": "wpackagist-plugin/akismet",
-            "version": "3.1.5",
+            "version": "3.1.6",
             "source": {
                 "type": "svn",
                 "url": "http://plugins.svn.wordpress.org/akismet/",
-                "reference": "tags/3.1.5"
+                "reference": "tags/3.1.6"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/akismet.3.1.5.zip",
+                "url": "https://downloads.wordpress.org/plugin/akismet.3.1.6.zip",
                 "reference": null,
                 "shasum": null
             },
@@ -238,7 +238,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "http://downloads.wordpress.org/plugin/debug-bar.0.8.2.zip",
+                "url": "https://downloads.wordpress.org/plugin/debug-bar.0.8.2.zip",
                 "reference": null,
                 "shasum": null
             },
@@ -258,7 +258,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "http://downloads.wordpress.org/plugin/debug-bar-console.0.3.zip",
+                "url": "https://downloads.wordpress.org/plugin/debug-bar-console.0.3.zip",
                 "reference": null,
                 "shasum": null
             },
@@ -278,7 +278,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "http://downloads.wordpress.org/plugin/debug-bar-cron.0.1.2.zip",
+                "url": "https://downloads.wordpress.org/plugin/debug-bar-cron.0.1.2.zip",
                 "reference": null,
                 "shasum": null
             },
@@ -298,7 +298,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "http://downloads.wordpress.org/plugin/debug-bar-extender.zip",
+                "url": "https://downloads.wordpress.org/plugin/debug-bar-extender.zip",
                 "reference": null,
                 "shasum": null
             },
@@ -338,7 +338,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "http://downloads.wordpress.org/plugin/log-deprecated-notices.0.3.zip",
+                "url": "https://downloads.wordpress.org/plugin/log-deprecated-notices.0.3.zip",
                 "reference": null,
                 "shasum": null
             },
@@ -378,7 +378,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "http://downloads.wordpress.org/plugin/rewrite-rules-inspector.1.2.1.zip",
+                "url": "https://downloads.wordpress.org/plugin/rewrite-rules-inspector.1.2.1.zip",
                 "reference": null,
                 "shasum": null
             },
@@ -390,15 +390,15 @@
         },
         {
             "name": "wpackagist-plugin/theme-check",
-            "version": "20150818.1",
+            "version": "20151211.1",
             "source": {
                 "type": "svn",
                 "url": "http://plugins.svn.wordpress.org/theme-check/",
-                "reference": "tags/20150818.1"
+                "reference": "tags/20151211.1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/theme-check.20150818.1.zip",
+                "url": "https://downloads.wordpress.org/plugin/theme-check.20151211.1.zip",
                 "reference": null,
                 "shasum": null
             },
