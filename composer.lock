@@ -350,15 +350,15 @@
         },
         {
             "name": "wpackagist-plugin/regenerate-thumbnails",
-            "version": "2.2.5",
+            "version": "2.2.6",
             "source": {
                 "type": "svn",
                 "url": "http://plugins.svn.wordpress.org/regenerate-thumbnails/",
-                "reference": "tags/2.2.5"
+                "reference": "tags/2.2.6"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/regenerate-thumbnails.2.2.5.zip",
+                "url": "https://downloads.wordpress.org/plugin/regenerate-thumbnails.2.2.6.zip",
                 "reference": null,
                 "shasum": null
             },
