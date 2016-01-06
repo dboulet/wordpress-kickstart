@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "f58d1840265d94814e82fdb052ad2050",
-    "content-hash": "d9d83fdc0e90478da4e4da3e11ce0ae2",
+    "hash": "916d0b85a35a32036eccffaf1d6b4a69",
+    "content-hash": "92b2aa8184a42baf685b3c7202b42986",
     "packages": [
         {
             "name": "composer/installers",
@@ -149,15 +149,15 @@
         },
         {
             "name": "wordpress",
-            "version": "4.4",
+            "version": "4.4.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/WordPress/WordPress",
-                "reference": "4.4"
+                "reference": "4.4.1"
             },
             "dist": {
                 "type": "zip",
-                "url": "http://wordpress.org/wordpress-4.4.zip",
+                "url": "http://wordpress.org/wordpress-4.4.1.zip",
                 "reference": null,
                 "shasum": null
             },
@@ -168,15 +168,15 @@
         },
         {
             "name": "wpackagist-plugin/akismet",
-            "version": "3.1.6",
+            "version": "3.1.7",
             "source": {
                 "type": "svn",
                 "url": "http://plugins.svn.wordpress.org/akismet/",
-                "reference": "tags/3.1.6"
+                "reference": "tags/3.1.7"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/akismet.3.1.6.zip",
+                "url": "https://downloads.wordpress.org/plugin/akismet.3.1.7.zip",
                 "reference": null,
                 "shasum": null
             },
@@ -208,15 +208,15 @@
         },
         {
             "name": "wpackagist-theme/twentysixteen",
-            "version": "1.0",
+            "version": "1.1",
             "source": {
                 "type": "svn",
                 "url": "http://themes.svn.wordpress.org/twentysixteen/",
-                "reference": "1.0"
+                "reference": "1.1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/theme/twentysixteen.1.0.zip",
+                "url": "https://downloads.wordpress.org/theme/twentysixteen.1.1.zip",
                 "reference": null,
                 "shasum": null
             },
