@@ -28,7 +28,7 @@
   "repositories":[
     {
       "type":"composer",
-      "url":"http://wpackagist.org"
+      "url":"https://wpackagist.org"
     },
     {
       "type": "package",
@@ -37,7 +37,7 @@
         "type": "webroot",
         "version": "4.4.2",
         "dist": {
-          "url": "http://wordpress.org/wordpress-4.4.2.zip",
+          "url": "https://wordpress.org/wordpress-4.4.2.zip",
           "type": "zip"
         },
         "source": {
