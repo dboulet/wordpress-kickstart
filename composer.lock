@@ -157,7 +157,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "http://wordpress.org/wordpress-4.4.2.zip",
+                "url": "https://wordpress.org/wordpress-4.4.2.zip",
                 "reference": null,
                 "shasum": null
             },
@@ -168,15 +168,15 @@
         },
         {
             "name": "wpackagist-plugin/akismet",
-            "version": "3.1.7",
+            "version": "3.1.8",
             "source": {
                 "type": "svn",
                 "url": "http://plugins.svn.wordpress.org/akismet/",
-                "reference": "tags/3.1.7"
+                "reference": "tags/3.1.8"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/akismet.3.1.7.zip",
+                "url": "https://downloads.wordpress.org/plugin/akismet.3.1.8.zip",
                 "reference": null,
                 "shasum": null
             },
@@ -230,15 +230,15 @@
     "packages-dev": [
         {
             "name": "wpackagist-plugin/debug-bar",
-            "version": "0.8.2",
+            "version": "0.8.4",
             "source": {
                 "type": "svn",
                 "url": "http://plugins.svn.wordpress.org/debug-bar/",
-                "reference": "tags/0.8.2"
+                "reference": "tags/0.8.4"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/debug-bar.0.8.2.zip",
+                "url": "https://downloads.wordpress.org/plugin/debug-bar.0.8.4.zip",
                 "reference": null,
                 "shasum": null
             },
