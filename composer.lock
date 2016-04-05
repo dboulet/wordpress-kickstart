@@ -9,16 +9,16 @@
     "packages": [
         {
             "name": "composer/installers",
-            "version": "v1.0.23",
+            "version": "v1.0.24",
             "source": {
                 "type": "git",
                 "url": "https://github.com/composer/installers.git",
-                "reference": "6213d900e92647831f7a406d5c530ea1f3d4360e"
+                "reference": "1cf7cc4b89d5e8549bbb7d6ab1de75da13d27988"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/composer/installers/zipball/6213d900e92647831f7a406d5c530ea1f3d4360e",
-                "reference": "6213d900e92647831f7a406d5c530ea1f3d4360e",
+                "url": "https://api.github.com/repos/composer/installers/zipball/1cf7cc4b89d5e8549bbb7d6ab1de75da13d27988",
+                "reference": "1cf7cc4b89d5e8549bbb7d6ab1de75da13d27988",
                 "shasum": ""
             },
             "require": {
@@ -40,8 +40,8 @@
                 }
             },
             "autoload": {
-                "psr-0": {
-                    "Composer\\Installers\\": "src/"
+                "psr-4": {
+                    "Composer\\Installers\\": "src/Composer/Installers"
                 }
             },
             "notification-url": "https://packagist.org/downloads/",
@@ -56,12 +56,14 @@
                 }
             ],
             "description": "A multi-framework Composer library installer",
-            "homepage": "http://composer.github.com/installers/",
+            "homepage": "https://composer.github.io/installers/",
             "keywords": [
                 "Craft",
                 "Dolibarr",
                 "Hurad",
+                "ImageCMS",
                 "MODX Evo",
+                "Mautic",
                 "OXID",
                 "SMF",
                 "Thelia",
@@ -103,7 +105,7 @@
                 "zend",
                 "zikula"
             ],
-            "time": "2016-01-27 12:54:22"
+            "time": "2016-04-05 11:42:46"
         },
         {
             "name": "fancyguy/webroot-installer",
@@ -168,15 +170,15 @@
         },
         {
             "name": "wpackagist-plugin/akismet",
-            "version": "3.1.8",
+            "version": "3.1.10",
             "source": {
                 "type": "svn",
-                "url": "http://plugins.svn.wordpress.org/akismet/",
-                "reference": "tags/3.1.8"
+                "url": "https://plugins.svn.wordpress.org/akismet/",
+                "reference": "tags/3.1.10"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/akismet.3.1.8.zip",
+                "url": "https://downloads.wordpress.org/plugin/akismet.3.1.10.zip",
                 "reference": null,
                 "shasum": null
             },
@@ -191,7 +193,7 @@
             "version": "1.7.1",
             "source": {
                 "type": "svn",
-                "url": "http://plugins.svn.wordpress.org/limit-login-attempts/",
+                "url": "https://plugins.svn.wordpress.org/limit-login-attempts/",
                 "reference": "tags/1.7.1"
             },
             "dist": {
@@ -211,7 +213,7 @@
             "version": "1.1",
             "source": {
                 "type": "svn",
-                "url": "http://themes.svn.wordpress.org/twentysixteen/",
+                "url": "https://themes.svn.wordpress.org/twentysixteen/",
                 "reference": "1.1"
             },
             "dist": {
@@ -233,7 +235,7 @@
             "version": "0.8.4",
             "source": {
                 "type": "svn",
-                "url": "http://plugins.svn.wordpress.org/debug-bar/",
+                "url": "https://plugins.svn.wordpress.org/debug-bar/",
                 "reference": "tags/0.8.4"
             },
             "dist": {
@@ -253,7 +255,7 @@
             "version": "0.3",
             "source": {
                 "type": "svn",
-                "url": "http://plugins.svn.wordpress.org/debug-bar-console/",
+                "url": "https://plugins.svn.wordpress.org/debug-bar-console/",
                 "reference": "tags/0.3"
             },
             "dist": {
@@ -273,7 +275,7 @@
             "version": "0.1.2",
             "source": {
                 "type": "svn",
-                "url": "http://plugins.svn.wordpress.org/debug-bar-cron/",
+                "url": "https://plugins.svn.wordpress.org/debug-bar-cron/",
                 "reference": "tags/0.1.2"
             },
             "dist": {
@@ -293,7 +295,7 @@
             "version": "0.5",
             "source": {
                 "type": "svn",
-                "url": "http://plugins.svn.wordpress.org/debug-bar-extender/",
+                "url": "https://plugins.svn.wordpress.org/debug-bar-extender/",
                 "reference": "trunk"
             },
             "dist": {
@@ -313,7 +315,7 @@
             "version": "1.2.6",
             "source": {
                 "type": "svn",
-                "url": "http://plugins.svn.wordpress.org/developer/",
+                "url": "https://plugins.svn.wordpress.org/developer/",
                 "reference": "tags/1.2.6"
             },
             "dist": {
@@ -333,7 +335,7 @@
             "version": "0.3",
             "source": {
                 "type": "svn",
-                "url": "http://plugins.svn.wordpress.org/log-deprecated-notices/",
+                "url": "https://plugins.svn.wordpress.org/log-deprecated-notices/",
                 "reference": "tags/0.3"
             },
             "dist": {
@@ -353,7 +355,7 @@
             "version": "2.2.6",
             "source": {
                 "type": "svn",
-                "url": "http://plugins.svn.wordpress.org/regenerate-thumbnails/",
+                "url": "https://plugins.svn.wordpress.org/regenerate-thumbnails/",
                 "reference": "tags/2.2.6"
             },
             "dist": {
@@ -373,7 +375,7 @@
             "version": "1.2.1",
             "source": {
                 "type": "svn",
-                "url": "http://plugins.svn.wordpress.org/rewrite-rules-inspector/",
+                "url": "https://plugins.svn.wordpress.org/rewrite-rules-inspector/",
                 "reference": "tags/1.2.1"
             },
             "dist": {
@@ -393,7 +395,7 @@
             "version": "20151211.1",
             "source": {
                 "type": "svn",
-                "url": "http://plugins.svn.wordpress.org/theme-check/",
+                "url": "https://plugins.svn.wordpress.org/theme-check/",
                 "reference": "tags/20151211.1"
             },
             "dist": {
