@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "39394e77478ae89bf2ffaeb9ee16801c",
-    "content-hash": "2141c04531bd2bdb8ad8e267b32186e3",
+    "hash": "35a10ddb57053546b242c98343717454",
+    "content-hash": "d1d91f672c832c7625476a805159eae9",
     "packages": [
         {
             "name": "composer/installers",
@@ -158,15 +158,15 @@
         },
         {
             "name": "wordpress",
-            "version": "4.6",
+            "version": "4.6.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/WordPress/WordPress",
-                "reference": "4.6"
+                "reference": "4.6.1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://wordpress.org/wordpress-4.6.zip",
+                "url": "https://wordpress.org/wordpress-4.6.1.zip",
                 "reference": null,
                 "shasum": null
             },
@@ -177,15 +177,15 @@
         },
         {
             "name": "wpackagist-plugin/akismet",
-            "version": "3.1.11",
+            "version": "3.2",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/akismet/",
-                "reference": "tags/3.1.11"
+                "reference": "tags/3.2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/akismet.3.1.11.zip",
+                "url": "https://downloads.wordpress.org/plugin/akismet.3.2.zip",
                 "reference": null,
                 "shasum": null
             },
