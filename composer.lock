@@ -177,15 +177,15 @@
         },
         {
             "name": "wpackagist-plugin/akismet",
-            "version": "3.1.11",
+            "version": "3.2",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/akismet/",
-                "reference": "tags/3.1.11"
+                "reference": "tags/3.2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/akismet.3.1.11.zip",
+                "url": "https://downloads.wordpress.org/plugin/akismet.3.2.zip",
                 "reference": null,
                 "shasum": null
             },
