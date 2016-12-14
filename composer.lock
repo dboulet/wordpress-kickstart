@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "b586f4912c04fa72b7d07ec99a8fbced",
-    "content-hash": "6542b2a7065f21a552115dbf5751aa3e",
+    "hash": "6c6858abadba5d598e04027f6dbf6a5c",
+    "content-hash": "e3f571c21b57c73fe650c5611fde7b87",
     "packages": [
         {
             "name": "composer/installers",
@@ -216,16 +216,16 @@
             "homepage": "https://wordpress.org/plugins/limit-login-attempts/"
         },
         {
-            "name": "wpackagist-theme/twentysixteen",
-            "version": "1.3",
+            "name": "wpackagist-theme/twentyseventeen",
+            "version": "1.0",
             "source": {
                 "type": "svn",
-                "url": "https://themes.svn.wordpress.org/twentysixteen/",
-                "reference": "1.3"
+                "url": "https://themes.svn.wordpress.org/twentyseventeen/",
+                "reference": "1.0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/theme/twentysixteen.1.3.zip",
+                "url": "https://downloads.wordpress.org/theme/twentyseventeen.1.0.zip",
                 "reference": null,
                 "shasum": null
             },
@@ -233,7 +233,7 @@
                 "composer/installers": "~1.0"
             },
             "type": "wordpress-theme",
-            "homepage": "https://wordpress.org/themes/twentysixteen/"
+            "homepage": "https://wordpress.org/themes/twentyseventeen/"
         }
     ],
     "packages-dev": [

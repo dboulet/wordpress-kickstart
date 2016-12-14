@@ -11,7 +11,7 @@
   "require": {
     "wpackagist-plugin/limit-login-attempts": "1.*",
     "wpackagist-plugin/akismet": "3.*",
-    "wpackagist-theme/twentysixteen": "*",
+    "wpackagist-theme/twentyseventeen": "*",
     "wordpress": "4.*"
   },
   "require-dev": {
