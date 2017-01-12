@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "14864612c835bb60a34d9fd63d21b037",
-    "content-hash": "f16096a75306d6a26c020a2b055a674a",
+    "hash": "be463b766bb1e70eda1a6993d0fb2b5f",
+    "content-hash": "20f20b41219037511924417c9e5b4712",
     "packages": [
         {
             "name": "composer/installers",
@@ -158,15 +158,15 @@
         },
         {
             "name": "wordpress",
-            "version": "4.7",
+            "version": "4.7.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/WordPress/WordPress",
-                "reference": "4.7"
+                "reference": "4.7.1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://wordpress.org/wordpress-4.7.zip",
+                "url": "https://wordpress.org/wordpress-4.7.1.zip",
                 "reference": null,
                 "shasum": null
             },
@@ -217,15 +217,15 @@
         },
         {
             "name": "wpackagist-theme/twentyseventeen",
-            "version": "1.0",
+            "version": "1.1",
             "source": {
                 "type": "svn",
                 "url": "https://themes.svn.wordpress.org/twentyseventeen/",
-                "reference": "1.0"
+                "reference": "1.1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/theme/twentyseventeen.1.0.zip",
+                "url": "https://downloads.wordpress.org/theme/twentyseventeen.1.1.zip",
                 "reference": null,
                 "shasum": null
             },
