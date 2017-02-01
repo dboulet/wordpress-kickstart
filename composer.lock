@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "f6e1552d2d7167c8d3c4546f4fa870c7",
-    "content-hash": "e0b6fd45bd8d3aac867567097786ff72",
+    "hash": "a6cc421c7bb69714f007db1e0bfd076b",
+    "content-hash": "be765f4f0664e2271b10b449b00a1055",
     "packages": [
         {
             "name": "composer/installers",
@@ -158,15 +158,15 @@
         },
         {
             "name": "wordpress",
-            "version": "4.7.1",
+            "version": "4.7.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/WordPress/WordPress",
-                "reference": "4.7.1"
+                "reference": "4.7.2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://wordpress.org/wordpress-4.7.1.zip",
+                "url": "https://wordpress.org/wordpress-4.7.2.zip",
                 "reference": null,
                 "shasum": null
             },
@@ -339,15 +339,15 @@
         },
         {
             "name": "wpackagist-plugin/log-deprecated-notices",
-            "version": "0.3",
+            "version": "0.4",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/log-deprecated-notices/",
-                "reference": "tags/0.3"
+                "reference": "tags/0.4"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/log-deprecated-notices.0.3.zip",
+                "url": "https://downloads.wordpress.org/plugin/log-deprecated-notices.0.4.zip",
                 "reference": null,
                 "shasum": null
             },
