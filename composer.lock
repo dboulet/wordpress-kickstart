@@ -339,15 +339,15 @@
         },
         {
             "name": "wpackagist-plugin/log-deprecated-notices",
-            "version": "0.3",
+            "version": "0.4",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/log-deprecated-notices/",
-                "reference": "tags/0.3"
+                "reference": "tags/0.4"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/log-deprecated-notices.0.3.zip",
+                "url": "https://downloads.wordpress.org/plugin/log-deprecated-notices.0.4.zip",
                 "reference": null,
                 "shasum": null
             },
