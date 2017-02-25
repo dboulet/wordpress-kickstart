@@ -4,7 +4,6 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "9966ef267cead459fc8885993b5a0714",
     "content-hash": "be765f4f0664e2271b10b449b00a1055",
     "packages": [
         {
@@ -112,7 +111,7 @@
                 "zend",
                 "zikula"
             ],
-            "time": "2016-08-13 20:53:52"
+            "time": "2016-08-13T20:53:52+00:00"
         },
         {
             "name": "fancyguy/webroot-installer",
@@ -154,7 +153,7 @@
             ],
             "description": "A composer installer for libraries that live in an application webroot.",
             "homepage": "http://fancyguy.github.com/webroot-installer/",
-            "time": "2013-01-29 22:51:45"
+            "time": "2013-01-29T22:51:45+00:00"
         },
         {
             "name": "wordpress",
@@ -177,15 +176,15 @@
         },
         {
             "name": "wpackagist-plugin/akismet",
-            "version": "3.2",
+            "version": "3.3",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/akismet/",
-                "reference": "tags/3.2"
+                "reference": "tags/3.3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/akismet.3.2.zip",
+                "url": "https://downloads.wordpress.org/plugin/akismet.3.3.zip",
                 "reference": null,
                 "shasum": null
             },
