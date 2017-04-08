@@ -278,15 +278,15 @@
         },
         {
             "name": "wpackagist-plugin/debug-bar-cron",
-            "version": "0.1.2",
+            "version": "0.1.3",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/debug-bar-cron/",
-                "reference": "tags/0.1.2"
+                "reference": "tags/0.1.3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/debug-bar-cron.0.1.2.zip",
+                "url": "https://downloads.wordpress.org/plugin/debug-bar-cron.0.1.3.zip",
                 "reference": null,
                 "shasum": null
             },
