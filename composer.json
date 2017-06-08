@@ -35,15 +35,15 @@
       "package": {
         "name": "wordpress",
         "type": "webroot",
-        "version": "4.7.5",
+        "version": "4.8",
         "dist": {
-          "url": "https://wordpress.org/wordpress-4.7.5.zip",
+          "url": "https://wordpress.org/wordpress-4.8.zip",
           "type": "zip"
         },
         "source": {
           "url" : "https://github.com/WordPress/WordPress",
           "type": "git",
-          "reference": "4.7.5"
+          "reference": "4.8"
         },
         "require": {
           "fancyguy/webroot-installer": "1.0.0"
