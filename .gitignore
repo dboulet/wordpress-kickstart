@@ -10,18 +10,18 @@ Thumbs.db
 
 # Ignore WordPress files.
 
-wp/
-wp-content/upgrade/*
-wp-content/uploads/*
-wp-content/plugins/*
-!wp-content/plugins/index.php
-wp-content/themes/*
-!wp-content/themes/index.php
+/public/wp/
+/public/wp-content/upgrade/*
+/public/wp-content/uploads/*
+/public/wp-content/plugins/*
+!/public/wp-content/plugins/index.php
+/public/wp-content/themes/*
+!/public/wp-content/themes/index.php
 
 # Ignore files containing sensitive information.
 
-wp-config.php
-.htaccess
+/public/wp-config.php
+/public/.htaccess
 
 # Ignore Composer packages.
 

@@ -6,4 +6,4 @@
  */
 
 // Composer autoload.
-require_once WPMU_PLUGIN_DIR . '/../../vendor/autoload.php';
+require_once WPMU_PLUGIN_DIR . '/../../../vendor/autoload.php';
