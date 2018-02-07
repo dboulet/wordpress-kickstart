@@ -25,10 +25,10 @@
     "wpackagist-plugin/rewrite-rules-inspector": "*",
     "wpackagist-plugin/theme-check": "*"
   },
-  "repositories":[
+  "repositories": [
     {
-      "type":"composer",
-      "url":"https://wpackagist.org"
+      "type": "composer",
+      "url": "https://wpackagist.org"
     },
     {
       "type": "package",
