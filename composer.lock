@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "79be092b8c9bb2534de3f5e219a35581",
+    "content-hash": "f5e6115118c0400997069bd80f4ab708",
     "packages": [
         {
             "name": "composer/installers",
@@ -170,15 +170,15 @@
         },
         {
             "name": "wordpress",
-            "version": "4.9.6",
+            "version": "4.9.7",
             "source": {
                 "type": "git",
                 "url": "https://github.com/WordPress/WordPress",
-                "reference": "4.9.6"
+                "reference": "4.9.7"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://wordpress.org/wordpress-4.9.6.zip",
+                "url": "https://wordpress.org/wordpress-4.9.7.zip",
                 "reference": null,
                 "shasum": null
             },
