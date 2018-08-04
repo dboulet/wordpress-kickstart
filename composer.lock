@@ -229,15 +229,15 @@
         },
         {
             "name": "wpackagist-theme/twentyseventeen",
-            "version": "1.6",
+            "version": "1.7",
             "source": {
                 "type": "svn",
                 "url": "https://themes.svn.wordpress.org/twentyseventeen/",
-                "reference": "1.6"
+                "reference": "1.7"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/theme/twentyseventeen.1.6.zip",
+                "url": "https://downloads.wordpress.org/theme/twentyseventeen.1.7.zip",
                 "reference": null,
                 "shasum": null
             },
@@ -351,15 +351,15 @@
         },
         {
             "name": "wpackagist-plugin/log-deprecated-notices",
-            "version": "0.4",
+            "version": "0.4.1",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/log-deprecated-notices/",
-                "reference": "tags/0.4"
+                "reference": "tags/0.4.1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/log-deprecated-notices.0.4.zip",
+                "url": "https://downloads.wordpress.org/plugin/log-deprecated-notices.0.4.1.zip",
                 "reference": null,
                 "shasum": null
             },
