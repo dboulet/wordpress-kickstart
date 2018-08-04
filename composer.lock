@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "f5e6115118c0400997069bd80f4ab708",
+    "content-hash": "6813f8783ca1731afdf71460f5b0c5e1",
     "packages": [
         {
             "name": "composer/installers",
@@ -170,15 +170,15 @@
         },
         {
             "name": "wordpress",
-            "version": "4.9.7",
+            "version": "4.9.8",
             "source": {
                 "type": "git",
                 "url": "https://github.com/WordPress/WordPress",
-                "reference": "4.9.7"
+                "reference": "4.9.8"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://wordpress.org/wordpress-4.9.7.zip",
+                "url": "https://wordpress.org/wordpress-4.9.8.zip",
                 "reference": null,
                 "shasum": null
             },
@@ -229,15 +229,15 @@
         },
         {
             "name": "wpackagist-theme/twentyseventeen",
-            "version": "1.6",
+            "version": "1.7",
             "source": {
                 "type": "svn",
                 "url": "https://themes.svn.wordpress.org/twentyseventeen/",
-                "reference": "1.6"
+                "reference": "1.7"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/theme/twentyseventeen.1.6.zip",
+                "url": "https://downloads.wordpress.org/theme/twentyseventeen.1.7.zip",
                 "reference": null,
                 "shasum": null
             },
@@ -351,15 +351,15 @@
         },
         {
             "name": "wpackagist-plugin/log-deprecated-notices",
-            "version": "0.4",
+            "version": "0.4.1",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/log-deprecated-notices/",
-                "reference": "tags/0.4"
+                "reference": "tags/0.4.1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/log-deprecated-notices.0.4.zip",
+                "url": "https://downloads.wordpress.org/plugin/log-deprecated-notices.0.4.1.zip",
                 "reference": null,
                 "shasum": null
             },
