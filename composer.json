@@ -12,7 +12,7 @@
     "wpackagist-plugin/limit-login-attempts": "1.*",
     "wpackagist-plugin/akismet": "3.*",
     "wpackagist-theme/twentyseventeen": "*",
-    "wordpress": "4.*"
+    "wordpress": "5.*"
   },
   "require-dev": {
     "wpackagist-plugin/developer": "*",
@@ -35,15 +35,15 @@
       "package": {
         "name": "wordpress",
         "type": "webroot",
-        "version": "4.9.8",
+        "version": "5.0.3",
         "dist": {
-          "url": "https://wordpress.org/wordpress-4.9.8.zip",
+          "url": "https://wordpress.org/wordpress-5.0.3.zip",
           "type": "zip"
         },
         "source": {
           "url" : "https://github.com/WordPress/WordPress",
           "type": "git",
-          "reference": "4.9.8"
+          "reference": "5.0.3"
         },
         "require": {
           "fancyguy/webroot-installer": "1.0.0"

@@ -4,20 +4,20 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "6813f8783ca1731afdf71460f5b0c5e1",
+    "content-hash": "00ad3daf365178e3b3e465d4fb03b5cb",
     "packages": [
         {
             "name": "composer/installers",
-            "version": "v1.5.0",
+            "version": "v1.6.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/composer/installers.git",
-                "reference": "049797d727261bf27f2690430d935067710049c2"
+                "reference": "cfcca6b1b60bc4974324efb5783c13dca6932b5b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/composer/installers/zipball/049797d727261bf27f2690430d935067710049c2",
-                "reference": "049797d727261bf27f2690430d935067710049c2",
+                "url": "https://api.github.com/repos/composer/installers/zipball/cfcca6b1b60bc4974324efb5783c13dca6932b5b",
+                "reference": "cfcca6b1b60bc4974324efb5783c13dca6932b5b",
                 "shasum": ""
             },
             "require": {
@@ -124,7 +124,7 @@
                 "zend",
                 "zikula"
             ],
-            "time": "2017-12-29T09:13:20+00:00"
+            "time": "2018-08-27T06:10:37+00:00"
         },
         {
             "name": "fancyguy/webroot-installer",
@@ -170,15 +170,15 @@
         },
         {
             "name": "wordpress",
-            "version": "4.9.8",
+            "version": "5.0.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/WordPress/WordPress",
-                "reference": "4.9.8"
+                "reference": "5.0.3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://wordpress.org/wordpress-4.9.8.zip",
+                "url": "https://wordpress.org/wordpress-5.0.3.zip",
                 "reference": null,
                 "shasum": null
             },
@@ -229,15 +229,15 @@
         },
         {
             "name": "wpackagist-theme/twentyseventeen",
-            "version": "1.7",
+            "version": "2.0",
             "source": {
                 "type": "svn",
                 "url": "https://themes.svn.wordpress.org/twentyseventeen/",
-                "reference": "1.7"
+                "reference": "2.0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/theme/twentyseventeen.1.7.zip",
+                "url": "https://downloads.wordpress.org/theme/twentyseventeen.2.0.zip",
                 "reference": null,
                 "shasum": null
             },
@@ -251,15 +251,15 @@
     "packages-dev": [
         {
             "name": "wpackagist-plugin/debug-bar",
-            "version": "0.9",
+            "version": "1.0",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/debug-bar/",
-                "reference": "tags/0.9"
+                "reference": "tags/1.0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/debug-bar.0.9.zip",
+                "url": "https://downloads.wordpress.org/plugin/debug-bar.1.0.zip",
                 "reference": null,
                 "shasum": null
             },
@@ -371,15 +371,15 @@
         },
         {
             "name": "wpackagist-plugin/regenerate-thumbnails",
-            "version": "3.0.2",
+            "version": "3.1.0",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/regenerate-thumbnails/",
-                "reference": "tags/3.0.2"
+                "reference": "trunk"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/regenerate-thumbnails.3.0.2.zip",
+                "url": "https://downloads.wordpress.org/plugin/regenerate-thumbnails.zip?timestamp=1546642223",
                 "reference": null,
                 "shasum": null
             },
