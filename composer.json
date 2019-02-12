@@ -12,7 +12,7 @@
     "wpackagist-plugin/limit-login-attempts": "1.*",
     "wpackagist-plugin/akismet": "3.*",
     "wpackagist-theme/twentyseventeen": "*",
-    "wordpress": "5.*"
+    "wordpress/wordpress": "5.*"
   },
   "require-dev": {
     "wpackagist-plugin/developer": "*",
@@ -33,7 +33,7 @@
     {
       "type": "package",
       "package": {
-        "name": "wordpress",
+        "name": "wordpress/wordpress",
         "type": "webroot",
         "version": "5.0.3",
         "dist": {
@@ -46,7 +46,7 @@
           "reference": "5.0.3"
         },
         "require": {
-          "fancyguy/webroot-installer": "1.0.0"
+          "fancyguy/webroot-installer": "^1.0"
         }
       }
     }
@@ -57,6 +57,6 @@
       "public/wp-content/themes/{$name}/": ["type:wordpress-theme"]
     },
     "webroot-dir": "public/wp",
-    "webroot-package": "wordpress"
+    "webroot-package": "wordpress/wordpress"
   }
 }

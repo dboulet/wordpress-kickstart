@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "00ad3daf365178e3b3e465d4fb03b5cb",
+    "content-hash": "75dbdbbcbd6588c228d31a38620238e7",
     "packages": [
         {
             "name": "composer/installers",
@@ -128,16 +128,16 @@
         },
         {
             "name": "fancyguy/webroot-installer",
-            "version": "1.0.0",
+            "version": "1.1.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/fancyguy/webroot-installer.git",
-                "reference": "4888a3dad9ab3b3da505a149230be0ec2ab837f4"
+                "reference": "a2d5c2e149d837e5580a62a91d3c91577aa30d28"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/fancyguy/webroot-installer/zipball/4888a3dad9ab3b3da505a149230be0ec2ab837f4",
-                "reference": "4888a3dad9ab3b3da505a149230be0ec2ab837f4",
+                "url": "https://api.github.com/repos/fancyguy/webroot-installer/zipball/a2d5c2e149d837e5580a62a91d3c91577aa30d28",
+                "reference": "a2d5c2e149d837e5580a62a91d3c91577aa30d28",
                 "shasum": ""
             },
             "require-dev": {
@@ -166,10 +166,10 @@
             ],
             "description": "A composer installer for libraries that live in an application webroot.",
             "homepage": "http://fancyguy.github.com/webroot-installer/",
-            "time": "2013-01-29T22:51:45+00:00"
+            "time": "2013-03-15T17:51:14+00:00"
         },
         {
-            "name": "wordpress",
+            "name": "wordpress/wordpress",
             "version": "5.0.3",
             "source": {
                 "type": "git",
@@ -183,7 +183,7 @@
                 "shasum": null
             },
             "require": {
-                "fancyguy/webroot-installer": "1.0.0"
+                "fancyguy/webroot-installer": "^1.0"
             },
             "type": "webroot"
         },
