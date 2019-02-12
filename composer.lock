@@ -411,15 +411,15 @@
         },
         {
             "name": "wpackagist-plugin/theme-check",
-            "version": "20160523.1",
+            "version": "20190208.1",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/theme-check/",
-                "reference": "tags/20160523.1"
+                "reference": "tags/20190208.1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/theme-check.20160523.1.zip",
+                "url": "https://downloads.wordpress.org/plugin/theme-check.20190208.1.zip",
                 "reference": null,
                 "shasum": null
             },
