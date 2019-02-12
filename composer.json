@@ -37,7 +37,7 @@
         "type": "webroot",
         "version": "5.0.3",
         "dist": {
-          "url": "https://wordpress.org/wordpress-5.0.3.zip",
+          "url": "https://wordpress.org/wordpress-5.0.3-no-content.zip",
           "type": "zip"
         },
         "source": {
