@@ -9,7 +9,7 @@ A starting point for managing a WordPress installation using [Composer](https://
 
 To install:
 
-1. Clone repo into your webroot.
+1. Clone or download the repo.
 2. Update required information in `composer.json`, including package name, description, authors and license.
 3. Run following command to install packages: `composer install`
 4. Copy `public/wp-config-sample.php` to `public/wp-config.php` and edit database connection details.
