@@ -35,15 +35,15 @@
       "package": {
         "name": "wordpress/wordpress",
         "type": "webroot",
-        "version": "5.2",
+        "version": "5.2.1",
         "dist": {
-          "url": "https://wordpress.org/wordpress-5.2-no-content.zip",
+          "url": "https://wordpress.org/wordpress-5.2.1-no-content.zip",
           "type": "zip"
         },
         "source": {
           "url" : "https://github.com/WordPress/WordPress",
           "type": "git",
-          "reference": "5.2"
+          "reference": "5.2.1"
         },
         "require": {
           "fancyguy/webroot-installer": "^1.0"

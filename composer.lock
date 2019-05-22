@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "1f9736ce202b50cdadf89dafc03ead9c",
+    "content-hash": "e69859a7afedd634348ef949d465f885",
     "packages": [
         {
             "name": "composer/installers",
@@ -170,15 +170,15 @@
         },
         {
             "name": "wordpress/wordpress",
-            "version": "5.2",
+            "version": "5.2.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/WordPress/WordPress",
-                "reference": "5.2"
+                "reference": "5.2.1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://wordpress.org/wordpress-5.2-no-content.zip"
+                "url": "https://wordpress.org/wordpress-5.2.1-no-content.zip"
             },
             "require": {
                 "fancyguy/webroot-installer": "^1.0"
