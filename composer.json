@@ -31,24 +31,8 @@
       "url": "https://wpackagist.org"
     },
     {
-      "type": "package",
-      "package": {
-        "name": "wordpress/wordpress",
-        "type": "webroot",
-        "version": "5.3.2",
-        "dist": {
-          "url": "https://wordpress.org/wordpress-5.3.2-no-content.zip",
-          "type": "zip"
-        },
-        "source": {
-          "url" : "https://github.com/WordPress/WordPress",
-          "type": "git",
-          "reference": "5.3.2"
-        },
-        "require": {
-          "fancyguy/webroot-installer": "^1.0"
-        }
-      }
+      "type": "composer",
+      "url": "https://dboulet.github.io/wp-composer-repository/"
     }
   ],
   "extra": {
