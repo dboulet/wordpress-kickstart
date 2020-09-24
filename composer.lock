@@ -174,15 +174,15 @@
         },
         {
             "name": "wordpress/wordpress",
-            "version": "5.4",
+            "version": "5.5.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/WordPress/WordPress",
-                "reference": "5.4"
+                "reference": "5.5.1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://wordpress.org/wordpress-5.4-no-content.zip"
+                "url": "https://wordpress.org/wordpress-5.5.1-no-content.zip"
             },
             "require": {
                 "fancyguy/webroot-installer": "^1.0"
@@ -414,5 +414,6 @@
     "prefer-stable": false,
     "prefer-lowest": false,
     "platform": [],
-    "platform-dev": []
+    "platform-dev": [],
+    "plugin-api-version": "1.1.0"
 }
