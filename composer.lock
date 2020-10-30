@@ -195,15 +195,15 @@
         },
         {
             "name": "wordpress/wordpress",
-            "version": "5.5.2",
+            "version": "5.5.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/WordPress/WordPress",
-                "reference": "5.5.2"
+                "reference": "5.5.3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://wordpress.org/wordpress-5.5.2-no-content.zip"
+                "url": "https://wordpress.org/wordpress-5.5.3-no-content.zip"
             },
             "require": {
                 "fancyguy/webroot-installer": "^1.0"
