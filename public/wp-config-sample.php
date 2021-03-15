@@ -84,6 +84,22 @@ define( 'WP_DEBUG', false );
  */
 //define( 'DISALLOW_FILE_MODS', true );
 
+/**
+ * Set a default value for $_SERVER['HTTP_HOST'] in WP-CLI context.
+ *
+ * Change this to your site’s host name.
+ *
+ * The $_SERVER superglobal is an array typically populated by a web server with
+ * information such as headers, paths, and script locations. PHP CLI doesn’t
+ * populate this variable, nor does WP-CLI, because many of the variable
+ * details are meaningless at the command line.
+ *
+ * @link https://make.wordpress.org/cli/handbook/guides/common-issues/#php-notice-undefined-index-on-_server-superglobal
+ */
+if ( defined( 'WP_CLI' ) && WP_CLI && ! isset( $_SERVER['HTTP_HOST'] ) ) {
+	$_SERVER['HTTP_HOST'] = 'example.com';
+}
+
 /* That's all, stop editing! Happy publishing. */
 
 /** Custom Content Directory. */
