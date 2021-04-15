@@ -202,15 +202,15 @@
         },
         {
             "name": "wordpress/wordpress",
-            "version": "5.7",
+            "version": "5.7.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/WordPress/WordPress",
-                "reference": "5.7"
+                "reference": "5.7.1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://wordpress.org/wordpress-5.7-no-content.zip"
+                "url": "https://wordpress.org/wordpress-5.7.1-no-content.zip"
             },
             "require": {
                 "fancyguy/webroot-installer": "^1.0"
