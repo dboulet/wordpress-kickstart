@@ -204,15 +204,15 @@
         },
         {
             "name": "wordpress/wordpress",
-            "version": "5.7.2",
+            "version": "5.8",
             "source": {
                 "type": "git",
                 "url": "https://github.com/WordPress/WordPress",
-                "reference": "5.7.2"
+                "reference": "5.8"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://wordpress.org/wordpress-5.7.2-no-content.zip"
+                "url": "https://wordpress.org/wordpress-5.8-no-content.zip"
             },
             "require": {
                 "fancyguy/webroot-installer": "^1.0"
@@ -221,15 +221,15 @@
         },
         {
             "name": "wpackagist-plugin/akismet",
-            "version": "4.1.9",
+            "version": "4.1.10",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/akismet/",
-                "reference": "tags/4.1.9"
+                "reference": "tags/4.1.10"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/akismet.4.1.9.zip"
+                "url": "https://downloads.wordpress.org/plugin/akismet.4.1.10.zip"
             },
             "require": {
                 "composer/installers": "~1.0"
@@ -403,15 +403,15 @@
         },
         {
             "name": "wpackagist-plugin/rewrite-rules-inspector",
-            "version": "1.2.1",
+            "version": "1.3.1",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/rewrite-rules-inspector/",
-                "reference": "tags/1.2.1"
+                "reference": "tags/1.3.1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/rewrite-rules-inspector.1.2.1.zip"
+                "url": "https://downloads.wordpress.org/plugin/rewrite-rules-inspector.1.3.1.zip"
             },
             "require": {
                 "composer/installers": "~1.0"
@@ -421,15 +421,15 @@
         },
         {
             "name": "wpackagist-plugin/theme-check",
-            "version": "20200922.1",
+            "version": 20210617,
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/theme-check/",
-                "reference": "tags/20200922.1"
+                "reference": "tags/20210617"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/theme-check.20200922.1.zip"
+                "url": "https://downloads.wordpress.org/plugin/theme-check.20210617.zip"
             },
             "require": {
                 "composer/installers": "~1.0"
@@ -445,5 +445,5 @@
     "prefer-lowest": false,
     "platform": [],
     "platform-dev": [],
-    "plugin-api-version": "2.0.0"
+    "plugin-api-version": "2.1.0"
 }
