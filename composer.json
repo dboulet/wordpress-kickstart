@@ -42,5 +42,11 @@
     },
     "webroot-dir": "public/wp",
     "webroot-package": "wordpress/wordpress"
+  },
+  "config": {
+    "allow-plugins": {
+      "composer/installers": true,
+      "fancyguy/webroot-installer": true
+    }
   }
 }
