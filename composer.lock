@@ -214,15 +214,15 @@
         },
         {
             "name": "wpackagist-plugin/akismet",
-            "version": "4.2.1",
+            "version": "4.2.2",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/akismet/",
-                "reference": "tags/4.2.1"
+                "reference": "tags/4.2.2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/akismet.4.2.1.zip"
+                "url": "https://downloads.wordpress.org/plugin/akismet.4.2.2.zip"
             },
             "require": {
                 "composer/installers": "^1.0 || ^2.0"
@@ -250,15 +250,15 @@
         },
         {
             "name": "wpackagist-theme/twentytwentyone",
-            "version": "1.4",
+            "version": "1.5",
             "source": {
                 "type": "svn",
                 "url": "https://themes.svn.wordpress.org/twentytwentyone/",
-                "reference": "1.4"
+                "reference": "1.5"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/theme/twentytwentyone.1.4.zip"
+                "url": "https://downloads.wordpress.org/theme/twentytwentyone.1.5.zip"
             },
             "require": {
                 "composer/installers": "^1.0 || ^2.0"
