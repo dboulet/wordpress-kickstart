@@ -197,15 +197,15 @@
         },
         {
             "name": "wordpress/wordpress",
-            "version": "5.9",
+            "version": "5.9.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/WordPress/WordPress",
-                "reference": "5.9"
+                "reference": "5.9.1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://wordpress.org/wordpress-5.9-no-content.zip"
+                "url": "https://wordpress.org/wordpress-5.9.1-no-content.zip"
             },
             "require": {
                 "fancyguy/webroot-installer": "^1.0"
@@ -414,7 +414,7 @@
         },
         {
             "name": "wpackagist-plugin/theme-check",
-            "version": 20211203,
+            "version": "20211203",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/theme-check/",
