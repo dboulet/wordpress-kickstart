@@ -197,15 +197,15 @@
         },
         {
             "name": "wordpress/wordpress",
-            "version": "5.9.1",
+            "version": "5.9.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/WordPress/WordPress",
-                "reference": "5.9.1"
+                "reference": "5.9.2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://wordpress.org/wordpress-5.9.1-no-content.zip"
+                "url": "https://wordpress.org/wordpress-5.9.2-no-content.zip"
             },
             "require": {
                 "fancyguy/webroot-installer": "^1.0"
@@ -250,15 +250,15 @@
         },
         {
             "name": "wpackagist-theme/twentytwentytwo",
-            "version": "1.0",
+            "version": "1.1",
             "source": {
                 "type": "svn",
                 "url": "https://themes.svn.wordpress.org/twentytwentytwo/",
-                "reference": "1.0"
+                "reference": "1.1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/theme/twentytwentytwo.1.0.zip"
+                "url": "https://downloads.wordpress.org/theme/twentytwentytwo.1.1.zip"
             },
             "require": {
                 "composer/installers": "^1.0 || ^2.0"
