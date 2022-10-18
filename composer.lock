@@ -416,15 +416,15 @@
         },
         {
             "name": "wpackagist-plugin/theme-check",
-            "version": "20211203",
+            "version": "20220929",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/theme-check/",
-                "reference": "tags/20211203"
+                "reference": "tags/20220929"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/theme-check.20211203.zip"
+                "url": "https://downloads.wordpress.org/plugin/theme-check.20220929.zip"
             },
             "require": {
                 "composer/installers": "^1.0 || ^2.0"
