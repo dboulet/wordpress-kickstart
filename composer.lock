@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "eb448e518b3b59969155e495d65ca645",
+    "content-hash": "f1eb908478b7e3715f628d212b858380",
     "packages": [
         {
             "name": "composer/installers",
@@ -199,15 +199,15 @@
         },
         {
             "name": "wordpress/wordpress",
-            "version": "6.0.3",
+            "version": "6.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/WordPress/WordPress",
-                "reference": "6.0.3"
+                "reference": "6.1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://wordpress.org/wordpress-6.0.3-no-content.zip"
+                "url": "https://wordpress.org/wordpress-6.1-no-content.zip"
             },
             "require": {
                 "fancyguy/webroot-installer": "^1.0"
@@ -216,15 +216,15 @@
         },
         {
             "name": "wpackagist-plugin/akismet",
-            "version": "4.2.5",
+            "version": "5.0.1",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/akismet/",
-                "reference": "tags/4.2.5"
+                "reference": "tags/5.0.1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/akismet.4.2.5.zip"
+                "url": "https://downloads.wordpress.org/plugin/akismet.5.0.1.zip"
             },
             "require": {
                 "composer/installers": "^1.0 || ^2.0"
@@ -252,15 +252,15 @@
         },
         {
             "name": "wpackagist-theme/twentytwentytwo",
-            "version": "1.2",
+            "version": "1.3",
             "source": {
                 "type": "svn",
                 "url": "https://themes.svn.wordpress.org/twentytwentytwo/",
-                "reference": "1.2"
+                "reference": "1.3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/theme/twentytwentytwo.1.2.zip"
+                "url": "https://downloads.wordpress.org/theme/twentytwentytwo.1.3.zip"
             },
             "require": {
                 "composer/installers": "^1.0 || ^2.0"
