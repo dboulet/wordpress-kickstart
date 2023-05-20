@@ -234,15 +234,15 @@
         },
         {
             "name": "wpackagist-plugin/limit-login-attempts",
-            "version": "1.7.1",
+            "version": "1.7.2",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/limit-login-attempts/",
-                "reference": "tags/1.7.1"
+                "reference": "tags/1.7.2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/limit-login-attempts.1.7.1.zip"
+                "url": "https://downloads.wordpress.org/plugin/limit-login-attempts.1.7.2.zip"
             },
             "require": {
                 "composer/installers": "^1.0 || ^2.0"
@@ -416,15 +416,15 @@
         },
         {
             "name": "wpackagist-plugin/theme-check",
-            "version": "20220929",
+            "version": "20230417",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/theme-check/",
-                "reference": "tags/20220929"
+                "reference": "tags/20230417"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/theme-check.20220929.zip"
+                "url": "https://downloads.wordpress.org/plugin/theme-check.20230417.zip"
             },
             "require": {
                 "composer/installers": "^1.0 || ^2.0"
