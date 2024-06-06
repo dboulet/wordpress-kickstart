@@ -398,15 +398,15 @@
         },
         {
             "name": "wpackagist-plugin/rewrite-rules-inspector",
-            "version": "1.3.1",
+            "version": "1.4.0",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/rewrite-rules-inspector/",
-                "reference": "tags/1.3.1"
+                "reference": "tags/1.4.0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/rewrite-rules-inspector.1.3.1.zip"
+                "url": "https://downloads.wordpress.org/plugin/rewrite-rules-inspector.1.4.0.zip"
             },
             "require": {
                 "composer/installers": "^1.0 || ^2.0"
