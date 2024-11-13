@@ -200,15 +200,15 @@
         },
         {
             "name": "wordpress/wordpress",
-            "version": "6.6.2",
+            "version": "6.7",
             "source": {
                 "type": "git",
                 "url": "https://github.com/WordPress/WordPress",
-                "reference": "6.6.2"
+                "reference": "6.7"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://wordpress.org/wordpress-6.6.2-no-content.zip"
+                "url": "https://wordpress.org/wordpress-6.7-no-content.zip"
             },
             "require": {
                 "fancyguy/webroot-installer": "^1.0"
