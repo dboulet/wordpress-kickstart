@@ -200,15 +200,15 @@
         },
         {
             "name": "wordpress/wordpress",
-            "version": "6.7.2",
+            "version": "6.8",
             "source": {
                 "type": "git",
                 "url": "https://github.com/WordPress/WordPress",
-                "reference": "6.7.2"
+                "reference": "6.8"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://wordpress.org/wordpress-6.7.2-no-content.zip"
+                "url": "https://wordpress.org/wordpress-6.8-no-content.zip"
             },
             "require": {
                 "fancyguy/webroot-installer": "^1.0"
@@ -217,15 +217,15 @@
         },
         {
             "name": "wpackagist-plugin/akismet",
-            "version": "5.3.6",
+            "version": "5.3.7",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/akismet/",
-                "reference": "tags/5.3.6"
+                "reference": "tags/5.3.7"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/akismet.5.3.6.zip"
+                "url": "https://downloads.wordpress.org/plugin/akismet.5.3.7.zip"
             },
             "require": {
                 "composer/installers": "^1.0 || ^2.0"
@@ -253,15 +253,15 @@
         },
         {
             "name": "wpackagist-theme/twentytwentyfive",
-            "version": "1.1",
+            "version": "1.2",
             "source": {
                 "type": "svn",
                 "url": "https://themes.svn.wordpress.org/twentytwentyfive/",
-                "reference": "1.1"
+                "reference": "1.2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/theme/twentytwentyfive.1.1.zip"
+                "url": "https://downloads.wordpress.org/theme/twentytwentyfive.1.2.zip"
             },
             "require": {
                 "composer/installers": "^1.0 || ^2.0"
