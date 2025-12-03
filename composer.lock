@@ -217,15 +217,15 @@
         },
         {
             "name": "wpackagist-plugin/akismet",
-            "version": "5.5",
+            "version": "5.6",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/akismet/",
-                "reference": "tags/5.5"
+                "reference": "tags/5.6"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/akismet.5.5.zip"
+                "url": "https://downloads.wordpress.org/plugin/akismet.5.6.zip"
             },
             "require": {
                 "composer/installers": "^1.0 || ^2.0"
@@ -399,15 +399,15 @@
         },
         {
             "name": "wpackagist-plugin/rewrite-rules-inspector",
-            "version": "1.4.0",
+            "version": "1.5.1",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/rewrite-rules-inspector/",
-                "reference": "tags/1.4.0"
+                "reference": "tags/1.5.1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/rewrite-rules-inspector.1.4.0.zip"
+                "url": "https://downloads.wordpress.org/plugin/rewrite-rules-inspector.1.5.1.zip"
             },
             "require": {
                 "composer/installers": "^1.0 || ^2.0"
