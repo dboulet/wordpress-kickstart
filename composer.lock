@@ -253,15 +253,15 @@
         },
         {
             "name": "wpackagist-theme/twentytwentyfive",
-            "version": "1.3",
+            "version": "1.4",
             "source": {
                 "type": "svn",
                 "url": "https://themes.svn.wordpress.org/twentytwentyfive/",
-                "reference": "1.3"
+                "reference": "1.4"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/theme/twentytwentyfive.1.3.zip"
+                "url": "https://downloads.wordpress.org/theme/twentytwentyfive.1.4.zip"
             },
             "require": {
                 "composer/installers": "^1.0 || ^2.0"
@@ -399,15 +399,15 @@
         },
         {
             "name": "wpackagist-plugin/rewrite-rules-inspector",
-            "version": "1.5.1",
+            "version": "1.6.0",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/rewrite-rules-inspector/",
-                "reference": "tags/1.5.1"
+                "reference": "tags/1.6.0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/rewrite-rules-inspector.1.5.1.zip"
+                "url": "https://downloads.wordpress.org/plugin/rewrite-rules-inspector.1.6.0.zip"
             },
             "require": {
                 "composer/installers": "^1.0 || ^2.0"
