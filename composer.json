@@ -19,7 +19,6 @@
     "wpackagist-plugin/debug-bar": "*",
     "wpackagist-plugin/debug-bar-console": "*",
     "wpackagist-plugin/debug-bar-cron": "*",
-    "wpackagist-plugin/debug-bar-extender": "*",
     "wpackagist-plugin/log-deprecated-notices": "*",
     "wpackagist-plugin/regenerate-thumbnails": "*",
     "wpackagist-plugin/rewrite-rules-inspector": "*",
