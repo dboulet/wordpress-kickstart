@@ -15,7 +15,6 @@
     "wordpress/wordpress": "6.*"
   },
   "require-dev": {
-    "wpackagist-plugin/developer": "*",
     "wpackagist-plugin/debug-bar": "*",
     "wpackagist-plugin/debug-bar-console": "*",
     "wpackagist-plugin/debug-bar-cron": "*",

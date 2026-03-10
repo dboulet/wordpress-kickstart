@@ -326,24 +326,6 @@
             "homepage": "https://wordpress.org/plugins/debug-bar-cron/"
         },
         {
-            "name": "wpackagist-plugin/developer",
-            "version": "1.2.6",
-            "source": {
-                "type": "svn",
-                "url": "https://plugins.svn.wordpress.org/developer/",
-                "reference": "tags/1.2.6"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/developer.1.2.6.zip"
-            },
-            "require": {
-                "composer/installers": "^1.0 || ^2.0"
-            },
-            "type": "wordpress-plugin",
-            "homepage": "https://wordpress.org/plugins/developer/"
-        },
-        {
             "name": "wpackagist-plugin/log-deprecated-notices",
             "version": "0.4.1",
             "source": {
