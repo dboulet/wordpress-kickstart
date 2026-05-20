@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "045754627558e5ce14d059d6a6b3623c",
+    "content-hash": "ff525e9865946ddeaa57d8cc5d5788b9",
     "packages": [
         {
             "name": "composer/installers",
@@ -200,15 +200,15 @@
         },
         {
             "name": "wordpress/wordpress",
-            "version": "6.9.4",
+            "version": "7.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/WordPress/WordPress",
-                "reference": "6.9.4"
+                "reference": "7.0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://wordpress.org/wordpress-6.9.4-no-content.zip"
+                "url": "https://wordpress.org/wordpress-7.0-no-content.zip"
             },
             "require": {
                 "fancyguy/webroot-installer": "^1.0"

@@ -12,7 +12,7 @@
     "wpackagist-plugin/limit-login-attempts": "1.*",
     "wpackagist-plugin/akismet": "5.*",
     "wpackagist-theme/twentytwentyfive": "1.*",
-    "wordpress/wordpress": "6.*"
+    "wordpress/wordpress": "7.*"
   },
   "require-dev": {
     "wpackagist-plugin/debug-bar": "*",
