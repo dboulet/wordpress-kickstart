@@ -200,15 +200,15 @@
         },
         {
             "name": "wordpress/wordpress",
-            "version": "7.0",
+            "version": "7.0.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/WordPress/WordPress",
-                "reference": "7.0"
+                "reference": "7.0.1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://wordpress.org/wordpress-7.0-no-content.zip"
+                "url": "https://wordpress.org/wordpress-7.0.1-no-content.zip"
             },
             "require": {
                 "fancyguy/webroot-installer": "^1.0"
