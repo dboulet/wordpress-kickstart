@@ -202,15 +202,15 @@
         },
         {
             "name": "wordpress/wordpress",
-            "version": "7.1.4",
+            "version": "7.1.5",
             "source": {
                 "type": "git",
                 "url": "https://github.com/WordPress/WordPress",
-                "reference": "7.1.4"
+                "reference": "7.1.5"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://wordpress.org/wordpress-7.1.4-no-content.zip"
+                "url": "https://wordpress.org/wordpress-7.1.5-no-content.zip"
             },
             "require": {
                 "fancyguy/webroot-installer": "^1.0"
