@@ -150,7 +150,8 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2024-06-24T20:46:46+00:00"
+            "time": "2024-06-24T20:46:46+00:00",
+            "published-time": "2024-06-24T21:01:36+00:00"
         },
         {
             "name": "fancyguy/webroot-installer",
@@ -196,7 +197,8 @@
                 "issues": "https://github.com/fancyguy/webroot-installer/issues",
                 "source": "https://github.com/fancyguy/webroot-installer/tree/master"
             },
-            "time": "2013-03-15T17:51:14+00:00"
+            "time": "2013-03-15T17:51:14+00:00",
+            "published-time": "2013-03-22T21:49:08+00:00"
         },
         {
             "name": "wordpress/wordpress",
@@ -363,15 +365,15 @@
         },
         {
             "name": "wpackagist-plugin/rewrite-rules-inspector",
-            "version": "1.6.0",
+            "version": "1.6.1",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/rewrite-rules-inspector/",
-                "reference": "tags/1.6.0"
+                "reference": "tags/1.6.1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/rewrite-rules-inspector.1.6.0.zip"
+                "url": "https://downloads.wordpress.org/plugin/rewrite-rules-inspector.1.6.1.zip"
             },
             "require": {
                 "composer/installers": "^1.0 || ^2.0"
@@ -405,5 +407,5 @@
     "prefer-lowest": false,
     "platform": {},
     "platform-dev": {},
-    "plugin-api-version": "2.9.0"
+    "plugin-api-version": "2.11.0"
 }
